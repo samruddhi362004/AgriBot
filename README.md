@@ -40,7 +40,8 @@ streamlit run app.py
 6. **Multilingual Support**: Select a language to translate the remedy.
 
 ## Project Flowchart
-(Attach Flowchart Image)
+![ChatGPT Image Apr 4, 2025, 09_14_46 AM](https://github.com/user-attachments/assets/39577b9a-cc9c-480d-8837-26e5c7c68013)
+
 
 ## Future Enhancements
 - **Expand disease database**: Train on more crop diseases.
